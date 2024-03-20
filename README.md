@@ -46,7 +46,5 @@ This is a simple number guessing game implemented using HTML, CSS, and JavaScrip
 
 Contributions are welcome! If you have any suggestions or improvements, feel free to fork the repository and create a pull request.
 
-## Credits
 
-- This project was created by [Adeela Saleem](https://github.com/AdeelaSaleem).
 
