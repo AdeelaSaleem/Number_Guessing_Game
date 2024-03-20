@@ -37,7 +37,7 @@ This is a simple number guessing game implemented using HTML, CSS, and JavaScrip
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/AdeelaSaleem/Number_Guessing_Game.git
+ [  git clone https://github.com/AdeelaSaleem/Number_Guessing_Game.git](https://github.com/AdeelaSaleem/Number_Guessing_Game)
    ```
 
 2. Open the `index.html` file in your web browser to start playing the game.
@@ -48,5 +48,5 @@ Contributions are welcome! If you have any suggestions or improvements, feel fre
 
 ## Credits
 
-- This project was created by [Adeela Saleem](https://github.com/Adeela Saleem).
+- This project was created by [Adeela Saleem](https://github.com/AdeelaSaleem).
 
