@@ -31,17 +31,6 @@ This is a simple number guessing game implemented using HTML, CSS, and JavaScrip
 - `main.js`: JavaScript file containing the game logic.
 
 
-
-## Getting Started
-
-1. Clone the repository:
-
-   ```bash
- [  git clone https://github.com/AdeelaSaleem/Number_Guessing_Game.git](https://github.com/AdeelaSaleem/Number_Guessing_Game)
-   ```
-
-2. Open the `index.html` file in your web browser to start playing the game.
-
 ## Contributions
 
 Contributions are welcome! If you have any suggestions or improvements, feel free to fork the repository and create a pull request.
