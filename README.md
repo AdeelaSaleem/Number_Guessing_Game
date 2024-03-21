@@ -29,7 +29,10 @@ This is a simple number guessing game implemented using HTML, CSS, and JavaScrip
 - `style.css`: CSS file for styling the game interface.
 - `main.js`: JavaScript file containing the game logic.
 
-![Project Screenshot](Screenshot.png)
+
+## Screenshot
+![Project Screenshot](https://github.com/AdeelaSaleem/Number_Guessing_Game/blob/81cbef06f824b5217ffe60b47b27973063b07c58/Screenshot%20.png)
+
 
 
 ## Contributions
