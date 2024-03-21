@@ -29,9 +29,6 @@ This is a simple number guessing game implemented using HTML, CSS, and JavaScrip
 - `style.css`: CSS file for styling the game interface.
 - `main.js`: JavaScript file containing the game logic.
 
-## Screenshots
-
-![Counter Screenshot](https://github.com/AdeelaSaleem/CounterProject/blob/3cd4bd80eec9bfc86e4110ebc0bf28aa61c269fe/screenshot.
 
 ## Contributions
 
