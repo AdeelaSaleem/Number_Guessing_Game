@@ -31,7 +31,8 @@ This is a simple number guessing game implemented using HTML, CSS, and JavaScrip
 
 ## Screenshots
 
-![Number Guessing Game Screenshot](https://github.com/AdeelaSaleem/Number_Guessing_Game/blob/e236fc2cbd11c37518b30ead0fc9e5021e8c68dc/Screenshot.png)
+![Number Guessing Game Screenshot](https://github.com/AdeelaSaleem/Number_Guessing_Game/raw/89a4227dd86c23e2f185cd4db81393816b2226d0/Screenshot.png)
+
 
 
 
